@@ -1,38 +1,38 @@
 fileFormatVersion: 2
-guid: 89ff32273bd1b444e94b531fe6f09e53
+guid: 256ef8f6e3ae209458a64f481b97a5fa
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5394865418120543917
-    second: CharacterUnity_Arm_L
+      213: 4327105100632855292
+    second: CharacterUnityPng_0
   - first:
-      213: -1765727108455909958
-    second: CharacterUnity_Body
+      213: 5356572704296978513
+    second: CharacterUnityPng_1
   - first:
-      213: 7372256015365497894
-    second: CharacterUnity_Arm_R
+      213: -7439942514845317559
+    second: CharacterUnityPng_2
   - first:
-      213: -50682223293050464
-    second: CharacterUnity_Head
+      213: -2462331045944024009
+    second: CharacterUnityPng_3
   - first:
-      213: -4362242738777365843
-    second: CharacterUnity_Leg_L
+      213: -7352159589164168749
+    second: CharacterUnityPng_4
   - first:
-      213: 1043441926804243852
-    second: CharacterUnity_Leg_R
+      213: 4002510903361618125
+    second: CharacterUnityPng_5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
-    fadeOut: 1
-    borderMipMap: 1
-    mipMapsPreserveCoverage: 1
-    alphaTestReferenceValue: 0.32
-    mipMapFadeDistanceStart: 0
-    mipMapFadeDistanceEnd: 2
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
@@ -49,7 +49,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: -1
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -153,127 +153,127 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: CharacterUnity_Arm_L
+      name: CharacterUnityPng_0
       rect:
         serializedVersion: 2
         x: 29
         y: 673
         width: 455
         height: 194
-      alignment: 9
-      pivot: {x: 0.886894, y: 0.35285273}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 351c2e54c769125b0800000000000000
-      internalID: -5394865418120543917
+      spriteID: cf2900db927fc0c30800000000000000
+      internalID: 4327105100632855292
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterUnity_Body
+      name: CharacterUnityPng_1
       rect:
         serializedVersion: 2
         x: 718
         y: 498
         width: 441
         height: 405
-      alignment: 9
-      pivot: {x: 0.51078844, y: 0.11233106}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab53532dc80ee77e0800000000000000
-      internalID: -1765727108455909958
+      spriteID: 158cc258e7e565a40800000000000000
+      internalID: 5356572704296978513
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterUnity_Arm_R
+      name: CharacterUnityPng_2
       rect:
         serializedVersion: 2
         x: 1401
         y: 586
         width: 480
         height: 258
-      alignment: 9
-      pivot: {x: 0.14977646, y: 0.2602681}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 624e81d39c38f4660800000000000000
-      internalID: 7372256015365497894
+      spriteID: 946815583b300c890800000000000000
+      internalID: -7439942514845317559
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterUnity_Head
+      name: CharacterUnityPng_3
       rect:
         serializedVersion: 2
         x: 29
         y: 118
         width: 548
         height: 453
-      alignment: 9
-      pivot: {x: 0.511576, y: 0.09739412}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a1d03459c0fb4ff0800000000000000
-      internalID: -50682223293050464
+      spriteID: 734271fa5fa04ddd0800000000000000
+      internalID: -2462331045944024009
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterUnity_Leg_L
+      name: CharacterUnityPng_4
       rect:
         serializedVersion: 2
         x: 856
         y: 27
         width: 276
         height: 380
-      alignment: 9
-      pivot: {x: 0.6206674, y: 0.867265}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: da2e52b57533673c0800000000000000
-      internalID: -4362242738777365843
+      spriteID: 3d943eb9ec1e7f990800000000000000
+      internalID: -7352159589164168749
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterUnity_Leg_R
+      name: CharacterUnityPng_5
       rect:
         serializedVersion: 2
         x: 1505
         y: 27
         width: 240
         height: 405
-      alignment: 9
-      pivot: {x: 0.3348002, y: 0.8406782}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c858aee67ec0b7e00800000000000000
-      internalID: 1043441926804243852
+      spriteID: dc04f7cd576cb8730800000000000000
+      internalID: 4002510903361618125
       vertices: []
       indices: 
       edges: []
@@ -289,8 +289,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
   spritePackingTag: 
-  pSDRemoveMatte: 1
-  pSDShowRemoveMatteOption: 1
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
